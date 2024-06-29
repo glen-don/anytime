@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anytime-app/static/css/main.e6c13ad2.css",
+    "main.js": "/anytime-app/static/js/main.70e4afd2.js",
+    "static/js/453.5669b8fe.chunk.js": "/anytime-app/static/js/453.5669b8fe.chunk.js",
+    "index.html": "/anytime-app/index.html",
+    "main.e6c13ad2.css.map": "/anytime-app/static/css/main.e6c13ad2.css.map",
+    "main.70e4afd2.js.map": "/anytime-app/static/js/main.70e4afd2.js.map",
+    "453.5669b8fe.chunk.js.map": "/anytime-app/static/js/453.5669b8fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.70e4afd2.js"
+  ]
+}
