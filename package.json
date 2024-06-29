@@ -2,8 +2,9 @@
   "name": "anytime",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://glen-don.github.io/anytime-app",
+  "homepage": "https://glen-don.github.io/anytime",
   "dependencies": {
+    "@radix-ui/react-slot": "^1.1.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -11,10 +12,19 @@
     "@types/node": "^16.18.101",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.19",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.399.0",
+    "postcss": "^8.4.38",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss": "^3.4.4",
+    "tailwindcss-animate": "^1.0.7",
     "typescript": "^4.9.5",
+    "ui": "github:shadcn/ui",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -42,5 +52,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@shadcn/ui": "^0.0.4"
   }
 }
